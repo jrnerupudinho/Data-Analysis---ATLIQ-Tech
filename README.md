@@ -1,8 +1,7 @@
 # Sales Insight Dashboard using Tableau
 ## ATLIQ Tech - Sales Insight Dashboard 
 
-This project was learned from the Code Basics YouTube channel. You can find the link below.
-
+This project was referred from the Code Basics YouTube channel. 
 
 [code basics youtube Playlist](https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL)
 
