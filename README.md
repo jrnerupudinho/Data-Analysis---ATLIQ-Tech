@@ -44,8 +44,11 @@ AtliQ Hardware, a prominent provider of computer hardware and peripherals with m
 ### Key Takeaways
 
 A. Gained insights into the characteristics of real-world business data sets.
+
 B. Acquired skills in crafting key analytical queries using MySQL.
+
 C. Mastered connecting database tables to Tableau, along with techniques for cleaning and modifying data in Power Query.
+
 D. Developed proficiency in creating essential analytical visuals and reports."
 
 ## Dashboards
