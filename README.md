@@ -1,7 +1,7 @@
-# Sales Insight Dashboard using PowerBI
-## Sales insights project Powerbi Dashboard
+# Sales Insight Dashboard using Tableau
+## ATLIQ Tech - Sales Insight Dashboard 
 
-This project was learned from the Code Basics YouTube channel. You can find the link below.nk below.
+This project was learned from the Code Basics YouTube channel. You can find the link below.
 
 
 [code basics youtube Playlist]([https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9](https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL))
