@@ -56,14 +56,14 @@ D. Developed proficiency in creating essential analytical visuals and reports."
 #### Dashboard KPI Page
 
 -------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
+ <img src="https://github.com/jrnerupudinho/Data-Analysis---ATLIQ-Tech/blob/main/Dashboard.png" class="center">
  
 
  #### Dashboard Profit Analysis
  
  -----------
  
-  <img src="[https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png](https://github.com/jrnerupudinho/Data-Analysis---ATLIQ-Tech/blob/main/Profit%20Dashboard.png)https://github.com/jrnerupudinho/Data-Analysis---ATLIQ-Tech/blob/main/Profit%20Dashboard.png" class="center">
+  <img src="https://github.com/jrnerupudinho/Data-Analysis---ATLIQ-Tech/blob/main/Profit%20Dashboard.png" class="center">
 
 
 
