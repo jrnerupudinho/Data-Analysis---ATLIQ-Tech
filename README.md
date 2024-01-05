@@ -1,82 +1,59 @@
 # Sales Insight Dashboard using PowerBI
 ## Sales insights project Powerbi Dashboard
 
-This project I learn from code basics youtube channel. you can find link is below.
+This project was learned from the Code Basics YouTube channel. You can find the link below.nk below.
 
 
-[code basics youtube Playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+[code basics youtube Playlist]([https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9](https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL))
 
 
 ## Problem statement
 
-AtliQ hardware is a company which delivers computer hardware & peripheral 
-Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of
-issues in terms of understanding how the business is performing and what are all the problem company is
-facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers
-to get the current status of the sales and market, as a human behaviour, these people 
-Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration.
+AtliQ Hardware, a prominent provider of computer hardware and peripherals with multiple branches across India, is currently facing challenges in business performance analysis. The Sales Director is encountering difficulties in comprehending the company's operational hurdles, particularly as sales figures have been unexpectedly declining. A significant part of this challenge stems from the inefficiency in obtaining accurate and timely sales updates from regional managers. This issue is exacerbated by the general discomfort with interpreting complex data from Excel files, leading to frustration and potential delays in decision-making.
 
-## Solution
-
-Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into 
-visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
-
-### AIMS Grid
-
-----
-By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
-and success criteria  of our project.
-
-<img src ="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/AIMS%20grid%20sales%20insights.jpg">
 
 ## Steps Followed in this project
 
-1. Learned about AIMS grid for project planning.
-2. Used MySQL for retrieving the data from the database into Power BI.
-3. Data Cleaning in power query.
-4. Performed ETL process (Extract Transform and Load)
-5. Created measure for needs and used them for creating visuals in PowerBi.
-6. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-7. Data Validation
-8. Data Modelling and Visualization.
+1. Utilized MySQL for data extraction from the database into Tableau.
+2. Conducted data cleansing operations within Power Query.
+3. Executed the ETL (Extract, Transform, and Load) process.
+4. Developed measures to address specific needs and integrated them into Power BI for enhanced visual analytics.
+5. Addressed currency discrepancies in transactional data by implementing a standardized currency conversion process.
+6. Ensured data integrity through rigorous data validation techniques.
+7.  Advanced in data modeling and visualization, optimizing the representation of complex data sets.
 
-## Major Changes/ Customizations Made
-
-1.Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the       Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
-2.Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
 
 ###  Insights
+
+- The dashboard reveals that over four years, the company has amassed a total revenue of ₹985M, with a profit margin of ₹24.7M, equating to 2.5%. The sales quantity reached 2M units. Specifically, in 2020, the revenue was ₹142M from sales of 350K units, yielding a profit of ₹2.1M.
+
+- Over this period, Delhi NCR emerged as the top revenue-generating market with ₹520M, contributing 52.8% to the total revenue. However, its profit margin stands at only 2.3%.
+
+- In terms of profit margin, Bhubaneshwar led in 2020 with a remarkable 10.48%. Mumbai, on the other hand, made the largest contribution to overall profit at 23.89%.
+
+- Bengaluru, over the four years, recorded the lowest profit margin at -20.8%. It also contributed the least to total profit, with a -0.3% share.
+
+- Among our top five customers, Electricalsara Stores stands out, having generated revenue of ₹413M over four years.
+
+- In our product portfolio, Prod318 is the highest revenue generator, bringing in ₹69M over the same period.
+
+- The product types 'Distribution' and 'Own Brand' each generated revenue of ₹494M over the four years.
+
+- The report contained in this repository provides a comprehensive analysis of the revenue generated by the top contributing customer, 'Modular'
   
-1. In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M.
-   in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
-2. In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue but if you look at the profit            margin Delhi NCR is generating only 2.3% profit margin.
-3. If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can      check the Profit Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.
-4. In 4 years Bengaluru generating the lowest profit margin of -20.8%.if we can check the Profit Contribution % by Market then here also Bengaluru is the Lower with      -0.3% of total contribution in total profit.
-5. In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
-6. In our top 5 products,the Prod318 is our highest product has generated total  ₹ 69M revenue generated in 4 years.
-7. In product type Distribution has generated the revenue of ₹494M and ownbrand revenue is ₹494M generated in entire 4 years.
-7. Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in              April 2020.
-  
-### Key Learnings
+### Key Take Aways
 
-1. Learned about what real business data sets look like.
-2. Learned about how to write some major analysis queries in MySQL.
-3. how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
-4. Learned about some major practical DAX functions and measures.
-5. Learned about some major analytical visuals and reports.
+A. Gained insights into the characteristics of real-world business data sets.
+B. Acquired skills in crafting key analytical queries using MySQL.
+C. Mastered the process of connecting database tables to Tableau, along with techniques for cleaning and modifying data in Power Query.
+D. Developed proficiency in creating essential analytical visuals and reports."
 
-
-## Final result 
+##Dashboards
 
 #### Dashboard KPI Page
 
 -------
  <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
- 
- #### Dashboard Performance Insights
-
--------
- <img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
  
 
  #### Dashboard Profit Analysis
