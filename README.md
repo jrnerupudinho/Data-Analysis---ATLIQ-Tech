@@ -16,7 +16,7 @@ AtliQ Hardware, a prominent provider of computer hardware and peripherals with m
 1. Utilized MySQL for data extraction from the database into Tableau.
 2. Conducted data cleansing operations within Power Query.
 3. Executed the ETL (Extract, Transform, and Load) process.
-4. Developed measures to address specific needs and integrated them into Power BI for enhanced visual analytics.
+4. Developed measures to address specific needs and integrated them into Tableau for enhanced visual analytics.
 5. Addressed currency discrepancies in transactional data by implementing a standardized currency conversion process.
 6. Ensured data integrity through rigorous data validation techniques.
 7.  Advanced in data modeling and visualization, optimizing the representation of complex data sets.
