@@ -1,10 +1,11 @@
-# Busniess Insight 360 Dashboard using Tableau and PowerBi [PowerBi Business Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzJhZjk4YTQtYjdkYS00ZTQwLWJmNjctZGE0M2ZlYjQ4NjY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-## ATLIQ Tech - Sales Insight Dashboard 
+# Busniess Insight 360 Dashboard using Tableau and PowerBi 
+## ATLIQ Tech - Business Insights Dashboard 
 
 This project was referred from the Code Basics YouTube channel. 
 
 [code basics youtube Playlist](https://www.youtube.com/watch?v=CCNd2fUfFkk&list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL)
 
+Here's the link to my [PowerBi Business Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzJhZjk4YTQtYjdkYS00ZTQwLWJmNjctZGE0M2ZlYjQ4NjY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) which has multiple views (sales, finance, supply chain and marketing)
 
 ## Problem statement
 
