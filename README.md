@@ -1,4 +1,4 @@
-# Sales Insight Dashboard using Tableau
+# Busniess Insight 360 Dashboard using Tableau and PowerBi [PowerBi Business Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzJhZjk4YTQtYjdkYS00ZTQwLWJmNjctZGE0M2ZlYjQ4NjY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## ATLIQ Tech - Sales Insight Dashboard 
 
 This project was referred from the Code Basics YouTube channel. 
